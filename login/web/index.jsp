@@ -12,8 +12,11 @@
   </head>
   <body>
     <div>
-          login:
-          password:
+        <form>
+            login:<input type = "name" />
+            password:<input type = "password" />
+        </form>
+
     </div>
   </body>
 </html>
