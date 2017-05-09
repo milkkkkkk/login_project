@@ -44,7 +44,7 @@
 
               <div class="form-group">
                   <div class="col-md-offset-3 col-md-8">
-                      <button type="submit" class="btn btn-default">登录</button>
+                      <button type="submit" class="btn btn-default">登录 </button>
                   </div>
               </div>
           </form>
